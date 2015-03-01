@@ -94,10 +94,18 @@ padding:0;
 
 .photo{
   float: left;
-  margin-left: 40px;
+  margin-left: 30px;
   margin-right: 10px;
   text-indent: 0;
+  text-align: center;
   padding: 0 0 1em;
+}
+
+.photo img{
+    margin-top: 3px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    margin-left: 2px;
 }
 
 li{
@@ -331,8 +339,6 @@ font-size:80%;
 
 img{
 border-style:none;
-float:left;
-vertical-align: bottom;
 }
 
 
